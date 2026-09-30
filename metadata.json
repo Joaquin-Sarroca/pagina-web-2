@@ -1,0 +1,6 @@
+{
+  "name": "¿Qué tanto contaminan los autos?",
+  "description": "Investigación ambiental y divulgación científica escolar: comparación interactiva del ciclo de vida e impacto de vehículos eléctricos y a combustión.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
